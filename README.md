@@ -1,2 +1,0 @@
-# vartalap
-app
